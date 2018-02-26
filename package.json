@@ -14,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/agsh/rtsp-ffmpeg.git"
   },
-  "devDependencies": {
+  "dependencies": {
     "ffmpeg-static": "^2.1.0"
   }
 }
