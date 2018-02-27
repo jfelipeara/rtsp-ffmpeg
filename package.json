@@ -15,7 +15,8 @@
     "url": "git+https://github.com/agsh/rtsp-ffmpeg.git"
   },
   "dependencies": {
-    "hazardous": "^0.3.0"
+    "hazardous": "^0.3.0",
+    "ffmpeg-static": "https://github.com/jfelipeara/ffmpeg-static"
   },
   "bugs": {
     "url": "https://github.com/agsh/rtsp-ffmpeg/issues"
