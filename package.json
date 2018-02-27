@@ -12,9 +12,21 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/agsh/rtsp-ffmpeg.git"
+    "url": "git+https://github.com/agsh/rtsp-ffmpeg.git"
   },
   "dependencies": {
-    "ffmpeg-static": "^2.1.0"
-  }
+    "hazardous": "^0.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/agsh/rtsp-ffmpeg/issues"
+  },
+  "homepage": "https://github.com/agsh/rtsp-ffmpeg#readme",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
 }
